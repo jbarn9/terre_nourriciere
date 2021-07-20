@@ -1,0 +1,30 @@
+body{
+    font-family: "Segoe UI";
+}
+.header-container{
+    background-image: url("/terreNourriciere/contact_form/images/banner_terre_nourriciere.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.h-header{
+    height: 300px;
+}
+
+div a  {
+    text-decoration: none;
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+div a:hover{
+    color: #a8a8a8;
+    text-decoration: underline;
+}
+.title-contact{
+    font-family: 'Marck Script', cursive, "Segoe UI";
+}
+
+footer{
+    background-color: #5d514d;
+}
